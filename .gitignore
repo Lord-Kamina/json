@@ -16,10 +16,10 @@ doc/xml
 doc/html
 me.nlohmann.json.docset
 
-benchmarks/files/numbers/*.json
-
 .idea
 cmake-build-debug
 
-test/test-*
 /.vs
+
+test/*
+benchmarks/*
